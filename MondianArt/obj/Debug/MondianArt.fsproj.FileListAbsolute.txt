@@ -1,0 +1,9 @@
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\MondianArt.exe.config
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\MondianArt.XML
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\MondianArt.exe
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\MondianArt.pdb
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\FSharp.Core.dll
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\System.ValueTuple.dll
+C:\Users\JHON\Desktop\MondianArt\MondianArt\bin\Debug\FSharp.Core.xml
+C:\Users\JHON\Desktop\MondianArt\MondianArt\obj\Debug\MondianArt.exe
+C:\Users\JHON\Desktop\MondianArt\MondianArt\obj\Debug\MondianArt.pdb
